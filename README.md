@@ -1,5 +1,3 @@
-# MATLAB-code-to-solve-Difference-Equation-and-to-find-the-Impulse-Response-of-System
-
 The impulse response of a system is the output of the
 system when the input is an impulse, δ(t), and all initial conditions are zero.
 
